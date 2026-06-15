@@ -4,6 +4,11 @@ Centers on the 4D competencies of:
     - Understand your goal and the problem that you're trying to solve
     - Know what AI systems can and can't do well
     - Decide how to divide the work between you and the AI
+    - ### **Problem Awareness**
+        The ability to clearly define your goals and understand what work is needed before involving AI tools. 
+        - What does success look like?
+        - What kind of thinking and work is needed to get there?
+        - AI fluency begins with and depends on your expertise 
 2. Description
     - What you want the final output to be
     - How you want the AI to approach the task
@@ -50,3 +55,12 @@ Scaling Laws: Increase in compute and data -> increase in model intelligence
 - Processes vast information during training and learns complex patterns
 - Adapts to new tasks through in-context learning
 - Demonstrates emergent capabilities from scale
+
+## **Limitations of AI**
+- Knowledge Cutoff Date
+- Sometimes Incorrect Information
+- Hallucination 
+- AI context window
+- Non-deterministic output
+
+Humans provide critical thinking, judgment, creativity, and ethical oversight. AI provides speed, scale, pattern recognition, and processing abilities. 
