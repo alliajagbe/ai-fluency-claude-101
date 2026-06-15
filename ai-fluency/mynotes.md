@@ -5,8 +5,17 @@ Centers on the 4D competencies of:
     - Know what AI systems can and can't do well
     - Decide how to divide the work between you and the AI
 2. Description
+    - What you want the final output to be
+    - How you want the AI to approach the task
+    - How you want the AI to behave
 3. Discernment
+    - Is the output useful and correct?
+    - Is the AI taking the right approach?
+    - Is the AI behaving as desired?
 4. Diligence
+    - Ensuring accuracy and taking responsibility
+    - Honesty and transparency
+    - Ethical use and critical awareness
 
 # **Fluent AI use is...**
 - Effective
