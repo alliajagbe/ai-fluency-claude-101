@@ -1,6 +1,6 @@
 # **AI Fluency Framework**
 Centers on the 4D competencies of:
-1. Delegation
+1. # **Delegation**
     - Understand your goal and the problem that you're trying to solve
     - Know what AI systems can and can't do well
     - Decide how to divide the work between you and the AI
@@ -23,7 +23,7 @@ Centers on the 4D competencies of:
     
     ### **The Delegation competence is crititcal to effective and efficient AI usage**
 
-2. Description
+2. # **Description**
     - What you want the final output to be
     - How you want the AI to approach the task
     - How you want the AI to behave
@@ -42,15 +42,66 @@ Centers on the 4D competencies of:
         - AI tools are interactive systems that can behave differently in different contexts. 
         - You need to explain how you want the AI to behave to get the best results. 
 
-3. Discernment
+3. # **Discernment**
     - Is the output useful and correct?
     - Is the AI taking the right approach?
-    - Is the AI behaving as desired?
+    - Is the AI behaving as desired? <br>
+        Your ability to critically evaluate what AI produces, how it produces it, and how it behaves. You need: 
+        - Domain expertise
+        - An understanding of how AI systems work and their typical shortcomings
+    - ### **Product Discernment**
+        Your capacity to judge the quality of the AI output
+        - Factually accurate?
+        - Appropriate to audience and purpose?
+        - Coherent and well-structured?
+        - Does it meet my requirements?
+        - Does it add value?
+    - ### **Process Discernment**
+        Your capacity to judge the quality of the problem solving approach
+        - Logical inconsistency
+        - Lapses in attention
+        - Inappropriate steps
+        - Getting stuck on one small detail
+        - Getting trapped in circular reasoning
+    - ### **Performance Discernment**
+        Your capacity to judge AI behaviors
+        - Is the communication style appropriate?
+        - Is the information at the right level?
+        - Is response to feedback appropriate?
+        - Is the interaction efficient? 
+    - ### **Feedback and Correction**
+        - Specifying the problem
+        - Clearly explaining why it is a problem 
+        - Providing concrete suggestions for improvement
+        - Revising your instructions or examples
 
-4. Diligence
+4. # **Diligence**
     - Ensuring accuracy and taking responsibility
     - Honesty and transparency
     - Ethical use and critical awareness
+    - ### **Creation Diligence**
+        Your ability to be critical and intentional about which AI systems you choose to use and how you use them. Be critically aware of:
+        - The AI systems that we use
+        - How we work with them
+        - The impacts that come from that interaction
+    - ### **Transparency Diligence**
+        The ability to be open and accurate about AI interaction with relevant stakeholders.
+        - Who needs to know?
+        - How should I communicate this?
+        - What level of detail is needed?
+    - ### **Deployment Diligence** 
+        The ability to take informed responsibility for the outputs you use or share after they've been created with AI assistance. 
+        - Verify facts
+        - Check for biases
+        - Ensure accuracy
+        - Check for usage rights
+    - ### **Ethical Frameworks**
+        - Personal Guidelines
+        - Organizational Policies
+        - Professional Standards
+        - Industry codes of conduct
+        - Legal and regulatory frameworks
+        - (Staying informed is an important part of diligence)
 
 # **Fluent AI use is...**
 - Effective
