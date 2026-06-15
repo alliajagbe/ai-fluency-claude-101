@@ -27,3 +27,26 @@ Centers on the 4D competencies of:
 - Automation: AI does work for you following explicit instructions
 - Augmentation: You and the AI collaboratively work together
 - Agency: AI works independently on your behalf
+
+# **Pillars that made GenAI possible**
+1. Algorithms
+    - Neural Networks
+    - Transformers
+2. Data 
+    - Articles and Websites
+    - Code and Multimodal Content
+3. Computation
+    - GPUs, TPUs, etc.
+    - Computing Clusters
+
+Scaling Laws: Increase in compute and data -> increase in model intelligence 
+
+## **AI Context Window**
+- Prompts
+- AI Responses
+- Any other information shared
+
+## **What makes genAI powerful:**
+- Processes vast information during training and learns complex patterns
+- Adapts to new tasks through in-context learning
+- Demonstrates emergent capabilities from scale
